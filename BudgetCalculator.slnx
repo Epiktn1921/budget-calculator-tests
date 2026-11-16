@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BudgetCalculator.Api/BudgetCalculator.Api.csproj" />
+  <Project Path="BudgetCalculator.Tests/BudgetCalculator.Tests.csproj" />
+</Solution>
